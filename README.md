@@ -1,4 +1,4 @@
-##  **Aplicação de Pesquisa**
+##  **Aplicação de Pesquisa - Curso Alura: Imersão Dev com Google Gemini**
 
 ###  **O que faz essa aplicação?**
 
